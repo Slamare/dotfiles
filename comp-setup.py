@@ -1,4 +1,6 @@
-#install Ananconda
+#adjust user and host computer name
+
+#install Anaconda
 
 #https://docs.anaconda.com/anaconda/install/mac-os/
 
